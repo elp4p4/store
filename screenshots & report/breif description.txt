@@ -1,0 +1,4 @@
+1. I used CSS Framework (Bootstrap) responsive components: Navbar (with dropdown button), Breadcrumb, Pagination, Modal.
+2. Product Section Design (TVs, Laptops, Cellphones): I listed product one by one with "buy now" button once you click on it, a Modal appears to fill it up with informations.
+3. Color Scheme: Gray and Red and White with Black color of text.
+4. Footer Design: Added some social media icons that will redirect you to the desired webpage once you click on it.
